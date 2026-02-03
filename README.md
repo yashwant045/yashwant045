@@ -1,17 +1,17 @@
 # Hi there, I'm Yashwant Singh 👋
 
-I'm a Computer Science student with hands-on experience in C, Java , HTML, CSS, and JavaScript. I'm passionate about Front-end Development and I'm currently learning MySQL and React.
+I'm a Computer Science student with hands-on experience in C, Java , HTML, CSS, and JavaScript, react.js, express.js , Spring ,Spring Boot framework. I'm passionate about Full stack Development and I'm currently learning SPring boot.
 
 ## 🛠 Skills & Technologies
 
 <img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-2f5690ee185f5345025b1a5b0bf2c8aa" alt="Luffy" hight="500" width="300" />
 
-- **Programming Languages**: C, Java
-- **Databases**: MySQL, SQLite.
+- **Programming Languages**: C, Java, python
+- **Databases**: MySQL, SQLite, mongoDb.
 
 ## 🌱 Currently Learning
 
-- **Full-Stack**: JavaScript, React.js, Node.js
+- **Web Developer **: Spring boot 
 - **Databases**: PostgreSQL, MongoDB
 
 <div align="left">
@@ -43,7 +43,7 @@ I'm a Computer Science student with hands-on experience in C, Java , HTML, CSS, 
 </div>
 
 ## 🔭 Areas of Interest
-- **Front-end Development**: Creating interactive and responsive web applications
+- **Full stack Web Development**: Creating interactive and responsive web applications
 - **Problem Solving**: I am strongly believe in solve real life problem.
 
 ## 📫 How to Reach Me
@@ -59,18 +59,11 @@ I'm a Computer Science student with hands-on experience in C, Java , HTML, CSS, 
 ## 💼 Projects
 Here are some of the projects I've been working on:
 
-### Project 1: Attendance System Using Face Recognition
-- **Description**: This project automates attendance marking in university classrooms using a face recognition model. The system utilizes a classroom camera to detect students present and seamlessly updates their attendance on the University portal. It's designed to save time, minimize manual effort, and ensure accuracy.
-- **Technologies Used**: Python, DeepFace, OpenCV, Liveliness
-- **Repository**: [GitHub Link](https://github.com/Rahul-Suthar/Machine-Learning-Projects)
+### Project 1: LetsDo
+- **Description**: The LetsDo application is a simple and effective tool to help you open your by commanding through the voice. 
+- **Technologies Used**:React.js ,Vue.js ,Angular ,Next.js,SQLite (default for Flask), MySQL
+- **Repository**: [GitHub Link](https://github.com/yashwant045/LetsDo)
 
-### Project 2: Tasks
-- **Description**: The Tasks application is a simple and effective tool to help you manage your daily to-do list. Whether it’s adding new tasks, updating details, marking them as done, or deleting completed ones, this app has you covered. It’s designed to be straightforward and user-friendly, making task management seamless and enjoyable.
-- **Technologies Used**: Python, Flask, HTML, CSS, Bootstrap, SQLite
-- **Repository**: [GitHub Link](https://github.com/rahul-suthar/Tasks)
-
-## ⚡ Fun Fact
-Share a fun fact about yourself!
 
 ## 📈 GitHub Stats
 
