@@ -1,81 +1,59 @@
 # Hi there, I'm Yashwant Singh 👋
 
-I'm a Computer Science student with hands-on experience in C, Java , HTML, CSS, and JavaScript, react.js, express.js , Spring ,Spring Boot framework. I'm passionate about Full stack Development and I'm currently learning SPring boot.
+I am a Computer Science and Engineering student (B.Tech, Expected 2027) passionate about building scalable backend architectures, distributed systems, and robust cloud infrastructure. I enjoy diving deep into advanced data structures, algorithmic problem-solving, and microservices ecosystem design.
+
+---
 
 ## 🛠 Skills & Technologies
 
-<img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-2f5690ee185f5345025b1a5b0bf2c8aa" alt="Luffy" hight="500" width="300" />
+* **Programming Languages:** Java, Python, JavaScript, SQL, C
+* **Backend Frameworks:** Spring Boot, Microservices, Flask, Node.js, Express.js
+* **DevOps & Cloud:** Docker, Kubernetes, CI/CD Pipelines (GitHub Actions), AWS, Linux, Maven
+* **Databases & Caching:** PostgreSQL, Redis, MongoDB, SQLite, MySQL
+* **Architecture & Concepts:** RESTful API Design, JWT Authentication, Role-Based Access Control (RBAC), OOP, Data Structures & Algorithms
 
-- **Programming Languages**: C, Java, python
-- **Databases**: MySQL, SQLite, mongoDb.
+---
 
-## 🌱 Currently Learning
+## 📈 Engineering Metrics & Achievements
 
-- **Web Developer **: Spring boot 
-- **Databases**: PostgreSQL, MongoDB
+> 💡 **Problem Solving:** Successfully solved **550+ algorithmic problems** on LeetCode.
+
+* 🎓 **AWS Academy Graduate:** Certified in Cloud Foundations.
+* 🛡️ **HackerRank Certified Professional:** Verified technical capabilities in Node.js and Python.
+
+---
+
+## 💼 Featured Projects
+
+### 🚀 [UniBuzz — Smart CRM for Campus Events](https://github.com/yashwant045)
+*Architected a distributed university CRM backend using Spring Boot microservices containerized with Docker.*
+* Integrated a **Redis caching layer** to handle rapid transaction pipelines, reducing database read latency by **30%** under simulated loads.
+* Engineered **JWT-based institutional email authentication** to enforce strict role-based access control (RBAC).
+* Automated building and structural API verification checks using **Maven and GitHub Actions CI/CD workflows**, cutting deployment errors by **15%**.
+
+### 🤖 [Roommate Bumble — AI Roommate Recommendation System](https://github.com/yashwant045)
+*Developed an end-to-end roommate matching platform using Python, Flask, and Kubernetes to scale ingestion workloads.*
+* Fabricated a **hybrid Scikit-learn recommendation engine** to process multidimensional user profile data using compatibility vectors.
+* Engineered an optimized processing pipeline inside **Docker** to compute and return matching models in under **200ms**.
+* Constructed modular REST API endpoints to exchange state metrics securely from the Flask backend to a React.js client.
+
+### 🎙️ [LetsDo](https://github.com/yashwant045/LetsDo)
+* An effective productivity tool designed to interact and trigger workflow commands through seamless voice processing.
+
+---
+
+## 📬 Connect With Me
+
+* 📧 **Email:** [yashwantsingh9006@gmail.com](mailto:yashwantsingh9006@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/yashwant-singh-b6391228a](https://linkedin.com/in/yashwant-singh-b6391228a)
+* 💻 **LeetCode:** [leetcode.com/yashwant045](https://leetcode.com/yashwant045)
+* 🐙 **GitHub:** [github.com/yashwant045](https://github.com/yashwant045)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwant045&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="Yashwant's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwant045&layout=compact&theme=radical" alt="Top Languages Used" width="38%" />
 </div>
-
-## 🔭 Areas of Interest
-- **Full stack Web Development**: Creating interactive and responsive web applications
-- **Problem Solving**: I am strongly believe in solve real life problem.
-
-## 📫 How to Reach Me
-
-<p align="left">
-<a href="https://linkedin.com/in/rahulsuthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsuthar" height="30" width="40" /></a>
-<a href="https://kaggle.com/rahul753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahul753" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_jangid_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_jangid_8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahulsuthar7357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulsuthar7357" height="30" width="40" /></a>
-<a href="mailto:rahulsuthar@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/243092/gmail.svg" alt="rahulsuthar@gmail.com" height="30" width="40" /></a>
-</p>
-
-## 💼 Projects
-Here are some of the projects I've been working on:
-
-### Project 1: LetsDo
-- **Description**: The LetsDo application is a simple and effective tool to help you open your by commanding through the voice. 
-- **Technologies Used**:React.js ,Vue.js ,Angular ,Next.js,SQLite (default for Flask), MySQL
-- **Repository**: [GitHub Link](https://github.com/yashwant045/LetsDo)
-
-
-## 📈 GitHub Stats
-
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Suthar&show_icons=true&theme=radical&hide=prs,issues,contribs" />
-  </div>
-  <div style="flex: 1; margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Suthar&layout=compact&theme=radical" />
-  </div>
-  <div style="flex:1; margin-left:20px;">
-    <img src="https://streak-stats.demolab.com?user=Rahul-Suthar&theme=radical" />
-  </div>
-</div>
-
